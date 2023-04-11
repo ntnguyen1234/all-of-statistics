@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore images
+chapter-1/*.png
+chapter-1/*.py
