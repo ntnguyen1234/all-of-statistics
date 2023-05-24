@@ -131,4 +131,5 @@ dmypy.json
 # Ignore images
 chapter-1/*.png
 chapter-1/*.py
+chapter-2/*.png
 test.ipynb
