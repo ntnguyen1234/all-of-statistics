@@ -129,9 +129,11 @@ dmypy.json
 .pyre/
 
 # Ignore images
+temp
 chapter-1/*.png
 chapter-1/*.py
 chapter-2/*.png
 chapter-3/*.png
 chapter-4/*.png
+chapter-7/*.png
 test.ipynb
