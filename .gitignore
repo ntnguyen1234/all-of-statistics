@@ -138,3 +138,4 @@ chapter-4/*.png
 chapter-7/*.png
 chapter-8/temp.ipynb
 test.ipynb
+.vscode
